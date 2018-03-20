@@ -1,0 +1,35 @@
+---
+layout: post
+title: First Post
+date: 2017-11-30T13:30:00.000Z
+author: Cameron Bell
+categories:
+  - Blog
+  - Low-Level Programming
+  - Development
+  - Nothing Interesting
+img:My_firstpost.jpg
+thumb: c_thumb.jpg
+published: true
+---
+
+<b>First post!</b> 
+First post!
+
+## About me
+-----
+This will be my first entry into my portfolio for the Entertainment Software Development (ESD) module.
+
+18 Years old
+PC Gamer
+I am from Scotland
+
+
+
+
+
+
+
+
+
+
