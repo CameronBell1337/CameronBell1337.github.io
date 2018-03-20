@@ -5,14 +5,14 @@ date:   2018-03-19 18:54:46
 author: Cameron Bell
 categories:
 - project
-img: xna-logo1.png
+img: spaceinvaders_home.png
 thumb: thumb02.jpg
 carousel:
 - spaceinvaders_home.png
 - quad_2.png
 tagged: C++, Engines, Development
 website: 
-abstract: A simple 2D game engine
+abstract: My version of the classic Space Invaders
 published: true
 ---
 #### Space Invaders

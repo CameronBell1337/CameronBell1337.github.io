@@ -1,22 +1,28 @@
 ---
 layout: project
-title:  "My Unreal Plugin"
+title:  "Breakout/Arkanoid"
 date:   2014-04-25 16:54:46
-author: James Huxtable
+author: Cameron Bell
 categories:
 - project
-img: unreal_logo.jpg
+img: Breakout_1.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- Breakout_1.jpg
+- Breakout_2.jpg
 tagged: Games
 client: None
-website: http://blacktie.co
+website: 
 published: true
 ---
-#### YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+#### Breakout/Arkanoid
+-----
+This is my version of Breakout/Arkanoid 
 
-#### Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Breakout
+-----
+Breakout is an arcade game developed and published by Atari, Inc., released on May 13, 1976. It was conceptualized by Nolan Bushnell and Steve Bristow, influenced by the 1972 Atari arcade game Pong, and built by Steve Wozniak aided by Steve Jobs.
+
+Arkanoid
+-----
+Arkanoid is an arcade game released by Taito in 1986. It expanded upon Atari's Breakout games of the 1970s by adding power-ups, different types of bricks, a variety of level layouts, and visual layering and depth.
+
