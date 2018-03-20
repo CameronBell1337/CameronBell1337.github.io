@@ -9,17 +9,14 @@ categories:
   - Development
   - Nothing Interesting
 img:My_firstpost.jpg
-thumb: c_thumb.jpg
+thumb: thumb03.jpg
 published: true
 ---
-
 <b>First post!</b> 
 First post!
 
 ## About me
------
 This will be my first entry into my portfolio for the Entertainment Software Development (ESD) module.
-
 18 Years old
 PC Gamer
 I am from Scotland
