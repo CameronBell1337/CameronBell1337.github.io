@@ -41,13 +41,13 @@ social:
   - title: dribbble
     url:
   - title: github
-    url:
+    url: https://github.com/CameronBell1337
   - title: twitter
     url: https://twitter.com/Garf1eldCS
   - title: instagram
     url:
   - title: linkedin
-    url:
+    url: https://www.linkedin.com/in/cameron-bell-b2169a176/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -63,15 +63,17 @@ email: cameron2.bell@live.uwe.ac.uk
 
 # Members information. Shown on About page.
 members:
-  - name: Cameron Bell
-    position: Student
-    text: I am a cat!.
+  - name: Cameron
+    position: Games Technology Student
+    text: I am a cat!
     img: profile_2.jpg
     social:
       - title: envelope #use for email address
         url: mailto:cameron2.bell@live.uwe.ac.uk
       - title: twitter
         url: https://twitter.com/Garf1eldCS
+      - title: linkedin
+        url: https://www.linkedin.com/in/cameron-bell-b2169a176/
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "First year student."
+about: "Game Player turned Game Creator."
