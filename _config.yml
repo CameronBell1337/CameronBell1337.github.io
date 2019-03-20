@@ -17,11 +17,11 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  primary: "#edc834" #"#db4025"
+  primary_rgb: "237,200,52" #"219,64,37" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  link: "#edd884"
+  link_hover: "#edc834"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
@@ -40,13 +40,13 @@ collections:
 social:
   - title: dribbble
     url:
-  - title: facebook
+  - title: github
     url:
   - title: twitter
     url: https://twitter.com/Garf1eldCS
   - title: instagram
     url:
-  - title: tumblr
+  - title: linkedin
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
