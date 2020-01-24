@@ -10,7 +10,7 @@ categories:
   - Nothing Interesting
 img:My_firstpost.jpg
 thumb: thumb03.jpg
-published: true
+published: false
 ---
 <b>First post!</b> 
 First post!
