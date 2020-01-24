@@ -65,8 +65,8 @@ email: cameron2.bell@live.uwe.ac.uk
 members:
   - name: Cameron
     position: Games Technology Student
-    text: I am a cat!
-    img: profile_2.jpg
+    text: Gamer, Programmer, Creator.
+    img: me.jpg
     social:
       - title: envelope #use for email address
         url: mailto:cameron2.bell@live.uwe.ac.uk
