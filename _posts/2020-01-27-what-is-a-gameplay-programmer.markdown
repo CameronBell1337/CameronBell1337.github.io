@@ -22,7 +22,8 @@ exact outcome while making sure its not too taxing on performance, look, feel an
 #### What do companies look for?
  There are many Game Studios which range from large in staff size to small teams of 2 or more. There is quite a lot of competition for the really large companies
  So they are going to be very strick with who they hire. First impressions are everything and the way you make a good first impression is by a good CV. On average employers look at candidates' CV for as little as 10-15 seconds.
- So you really need to make the CV look a part and interesting. <b><i>Below you will find what one job application is looking for.</i></b>
+ So you really need to make the CV look a part and interesting. 
+ <p><b><i>Below you will find what one job application is looking for.</i></b></P>
  
  <p><h2>What they want:</h2></p>
  <p><i>If you have strong skills or experience in any of these areas make sure to include it in your application:</i></p>
