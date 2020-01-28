@@ -21,13 +21,11 @@ Game-play programmers implement the main gameplay within a game from things like
 They must work with scope in mind knowing how hard mechanics can be to design as everyone can have amazing ideas on what they want but in reality getting the
 exact outcome while making sure its not too taxing on performance, look, feel and if it can even be possible. 
 
-<img src="asge_01.png">
+<img src="asge_01.PNG" alt="" />
 
-#### How do we use it?
-```C++
-int  static_int  = 2;
-int* dynamic_int = new int(2);
-```
+#### What do companies look for?
+ There are many Game Studios which range from large in staff size to small teams of 2 or more. There is quite a lot of competition for the really large companies
+ So they are going to be very strick with who they hire. First impressions are everything and
 
 
 
