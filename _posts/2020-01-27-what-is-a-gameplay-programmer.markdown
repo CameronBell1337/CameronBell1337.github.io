@@ -12,9 +12,6 @@ img: codeHeader.JPG,
 thumb: c_thumb.jpg
 published: true
 ---
-
-
-
 #### What is a game-play Programmer?
 A <b>game-play programmer</b> are one team of many others within a Game Studio, they are responsible for the functionality of the game.
 Game-play programmers implement the main gameplay within a game from things like the character movement and interaction, in-game entities that require logic.
@@ -29,6 +26,9 @@ exact outcome while making sure its not too taxing on performance, look, feel an
 
 
 #### Current programming positions:
+<a href="https://careers.microsoft.com/us/en/job/733799/Internship-Opportunities-Software-Engineer"><i>Rare - Software Engineer</i></a>
+<a href="https://ea.gr8people.com/index.gp?opportunityID=158975&method=cappportal.showJob&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"><i>EA - Software Engineer</i></a>
+<a href="https://jobs.lever.co/sumo-digital/8c369c43-e576-4bcd-84a1-d98d4184cef3"><i>SUMO Digital - Programmer</i></a>
 <a href="https://careers.microsoft.com/us/en/job/733799/Internship-Opportunities-Software-Engineer"><i>Rare - Software Engineer</i></a>
 
 
