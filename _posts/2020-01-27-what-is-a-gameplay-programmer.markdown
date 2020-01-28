@@ -9,6 +9,10 @@ categories:
   - Programming
 img: codeHeader.JPG
 thumb: c_thumb.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
 published: true
 ---
 
@@ -24,10 +28,7 @@ int  static_int  = 2;
 int* dynamic_int = new int(2);
 ```
 
-carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+
 
 #### How do we free it?
 ```C++
