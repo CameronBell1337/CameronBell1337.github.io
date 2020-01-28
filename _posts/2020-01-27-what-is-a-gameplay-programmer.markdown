@@ -21,7 +21,7 @@ Game-play programmers implement the main gameplay within a game from things like
 They must work with scope in mind knowing how hard mechanics can be to design as everyone can have amazing ideas on what they want but in reality getting the
 exact outcome while making sure its not too taxing on performance, look, feel and if it can even be possible. 
 
-<img src="asge_01.PNG" alt="">
+<img src="asge_01.PNG">
 
 #### What do companies look for?
  There are many Game Studios which range from large in staff size to small teams of 2 or more. There is quite a lot of competition for the really large companies
