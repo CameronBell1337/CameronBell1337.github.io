@@ -9,6 +9,11 @@ categories:
   - Programming
   - Module
 img: codeHeader.JPG
+
+carousel:
+- asge_01.PNG
+- asge_01.png
+
 thumb: c_thumb.jpg
 published: true
 ---
