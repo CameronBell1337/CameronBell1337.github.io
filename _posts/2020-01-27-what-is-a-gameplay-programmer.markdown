@@ -7,7 +7,7 @@ categories:
   - Blog
   - Game-play Programming
   - Programming
-img: codeHeader.jpg
+img: codeHeader.JPG
 thumb: c_thumb.jpg
 published: true
 ---
