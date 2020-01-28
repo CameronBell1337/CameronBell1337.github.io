@@ -30,12 +30,5 @@ exact outcome while making sure its not too taxing on performance, look, feel an
 
 
 #### How do we free it?
-```C++
-if ( dynamic_int )
-{ 
-  delete dynamic_int;
-  dynamic_int = nullptr;
-}
-```
 
-Dynamic memory is a complex and detailed area of C++ programming. There is still much to learn, but understanding why it exists and how it compares to static allocation can aid you in it's usage and understanding. Till next time.
+
