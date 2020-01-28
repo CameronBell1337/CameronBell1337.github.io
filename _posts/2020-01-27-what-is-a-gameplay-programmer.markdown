@@ -8,13 +8,7 @@ categories:
   - Game-play Programming
   - Programming
   - Module
-img: codeHeader.JPG
-img: asge_01.PNG
-
-carousel:
-- asge_01.PNG
-- asge_01.png
-
+img: codeHeader.JPG,
 thumb: c_thumb.jpg
 published: true
 ---
@@ -27,7 +21,6 @@ Game-play programmers implement the main gameplay within a game from things like
 They must work with scope in mind knowing how hard mechanics can be to design as everyone can have amazing ideas on what they want but in reality getting the
 exact outcome while making sure its not too taxing on performance, look, feel and if it can even be possible. 
 
-<img class="img-responsive" src="/assets/asge_01.PNG">
 
 #### What do companies look for?
  There are many Game Studios which range from large in staff size to small teams of 2 or more. There is quite a lot of competition for the really large companies
@@ -35,6 +28,8 @@ exact outcome while making sure its not too taxing on performance, look, feel an
 
 
 
-#### How do we free it?
+#### Current programming positions:
+<a href="https://careers.microsoft.com/us/en/job/733799/Internship-Opportunities-Software-Engineer"><i>Rare - Software Engineer</i></a>
+
 
 
