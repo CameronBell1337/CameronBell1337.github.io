@@ -21,7 +21,7 @@ published: true
 #### Why do we use it?
 Because the stack is restrictive
 
-<img src="asge_01.PNG">
+<img src="asge_01.png">
 
 #### How do we use it?
 ```C++
