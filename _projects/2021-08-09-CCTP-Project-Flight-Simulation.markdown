@@ -8,9 +8,8 @@ categories:
 img: disPhoto.png
 thumb: thumb02.jpg
 carousel:
-- biplane.png
-- bigPlane.png
-- coverDisPhoto.png
+- spaceinvaders_home.png
+- quad_2.png
 tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
 abstract: My Final version of my flight simulation tool build in Unity
