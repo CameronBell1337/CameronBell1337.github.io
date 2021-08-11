@@ -1,15 +1,16 @@
 ---
 layout: project
-title:  "CCTP Project Flight Simulation"
+title:  "CCTP Project"
 date:   2021-08-09 11:45:23
 author: Cameron Bell
 categories:
 - project
-img: disPhoto.png
+img: dis_photo.png
 thumb: thumb02.jpg
 carousel:
-- spaceinvaders_home.png
-- quad_2.png
+- cover_dis_photo.png
+- bi_plane.png
+- big_plane.png
 tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
 abstract: My Final version of my flight simulation tool build in Unity
