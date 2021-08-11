@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "CCTP Project - Flight Simulation"
+title:  "CCTP Project Flight Simulation"
 date:   2021-08-09 11:45:23
 author: Cameron Bell
 categories:
 - project
 img: disPhoto.png
-thumb: thumb_unity.png
+thumb: thumb02.jpg
 carousel:
 - biplane.png
 - bigPlane.png
