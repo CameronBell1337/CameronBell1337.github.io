@@ -11,12 +11,13 @@ carousel:
 - cover_dis_photo.png
 - bi_plane.png
 - big_plane.png
+- piper_plane.png
 tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
 abstract: My Final version of my flight simulation tool build in Unity
 published: true
 ---
-#### Space Invaders
+#### Flight Simulation
 Made for my final dissertation project for my BSc(hons) Games Technology  
 #### Features
 This projects includes a tool to create aerodynamic flight properties for different types of aircraft using the unity rigidbody component. 
