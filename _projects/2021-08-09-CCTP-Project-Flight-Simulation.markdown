@@ -6,13 +6,13 @@ author: Cameron Bell
 categories:
 - project
 img: disPhoto.png
-thumb: coverDisPhoto.png
+thumb: thumb_unity.png
 carousel:
 - biplane.png
 - bigPlane.png
 - coverDisPhoto.png
 tagged: C#, Engines, Development
-link: https://github.com/CameronBell1337/CTP_Project
+website: https://github.com/CameronBell1337/CTP_Project
 abstract: My Final version of my flight simulation tool build in Unity
 published: true
 ---
