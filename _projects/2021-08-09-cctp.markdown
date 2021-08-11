@@ -5,12 +5,12 @@ date:   2021-08-09 11:45:23
 author: Cameron Bell
 categories:
 - project
-img: dis_photo.png
-thumb: thumb02.jpg
+img: flight_sim.png
+thumb: thumb_unity.jpg
 carousel:
 - cover_dis_photo.png
-- bi_plane.png
-- big_plane.png
+- bi_plane_2.png
+- big_plane_2.png
 - piper_plane.png
 tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
