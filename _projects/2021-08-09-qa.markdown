@@ -1,0 +1,33 @@
+---
+layout: project
+title:  "Quality Assurance"
+date:   2021-04-020 11:45:23
+author: Cameron Bell
+categories:
+- project
+img: title-card-qa.png
+thumb: thumb_unity.jpg
+carousel:
+- qa00.png
+- qa01.png
+- qa02.png
+- qa03.png
+tagged: C#, Engine, Development, Group Work, Game
+website: https://www.youtube.com/watch?v=tFIijjkpsCk
+abstract: Small game with the theme of AI. 
+published: true
+---
+#### Quality Assurance
+Welcome to Artificial Incorporated, a business comprised of you, it's quality assurance worker. You are the only human associate at the company, ensuring the machines upstairs output only quality content.
+
+This project was created within a group of 5 people and the requirements were to make a gamee sourcing assets from an AI genertation website which takes 2D images and produces an obj file.
+
+I was tasked with all the Particle systems and visual effects within the game. these include: firework explosions, smokes and embers, lazer/gravity beam and weapon fire effects and object selection outline/aura.
+#### Features
+The Game contains:
+1. AI enemies
+2. Visual effects
+3. Particle systems
+4. Random Item spawning
+5. Random gift drops 
+and more.
