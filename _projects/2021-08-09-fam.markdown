@@ -1,0 +1,33 @@
+---
+layout: project
+title:  "Fight at the Museum"
+date:   2021-04-02 11:45:23
+author: Cameron Bell
+categories:
+- project
+img: title-card-fam.png
+thumb: thumb_unity.jpg
+carousel:
+- fam00.png
+
+tagged: C#, Engine, Development, Group Work, Game
+website: https://www.youtube.com/watch?v=DbOOJ0ngfu8
+abstract: Two Player Local Co-Op Game. 
+published: true
+---
+#### Fight at the Museum
+The budget is tight, and one of two employees is going to be laid off at the end of the day. The two employees both reason the best way to keep their job is to eliminate the other. But they must also ensure they are capable of the job still and put on a good performance!
+
+Fight at the Museum is a quick & quirky party game where you have to multitask between throwing stage props at each other, as well as pumping the pump-cart to keep the occasional audience entertained. Balance fake pleasantries & rivalry driven toy throwing tantrums in this unconventional co-op feud! If you loose all your star ratings, you lose, if your HP gets eliminated by your opponent, you lose!
+
+This project was created within a group of 5 people and the requirements were to make a local co-op game using assets provided and these were western style assets with the main focus being a cart.
+I was tasked with all creating the damage and health system, prop spawning, life & limit and player IK (Inverse Kinematics) interactions and helped with the inital IK movement system.
+#### Features
+The Game contains:
+1. Local Two Player Co-Op
+2. Versus
+3. Props
+4. IK movement
+5. Fast pace gameplay 
+and more.
+
