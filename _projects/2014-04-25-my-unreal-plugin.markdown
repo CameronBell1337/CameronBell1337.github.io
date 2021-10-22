@@ -5,7 +5,7 @@ date:   2018-01-30 16:54:46
 author: Cameron Bell
 categories:
 - project
-img: Breakout_1.png
+img: title-card-bk.png
 carousel:
 - Breakout_1.png
 - Breakout_2.png
