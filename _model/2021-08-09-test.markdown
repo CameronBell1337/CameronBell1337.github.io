@@ -1,0 +1,31 @@
+---
+layout: model
+title:  "Test"
+date:   2018-01-05 11:45:23
+author: Cameron Bell
+categories:
+- model
+img: title-card-gld.png
+thumb: thumb_unity.jpg
+carousel:
+- Picture7.png
+- Picture6.png
+- Picture8.png
+- Picture9.jpg
+tagged: C++, Engines, Development, Platformer
+website:
+abstract: Mini game made as part of a university project
+published: true
+---
+#### Tales of Iggy & Scorched
+Mini game made as part of a university project 
+#### Features
+This project outcome was to produce a time-restricted, platformer mini-game using the unreal engine with the time limit being 5 minutes. The level includes
+1. Toon Outline Shader
+2. Collectables
+3. Power-Ups
+4. Jump Pads
+5. Platforms
+6. Traps
+7. Puzzles 
+and more.
