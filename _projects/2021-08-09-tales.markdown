@@ -11,7 +11,7 @@ carousel:
 - Picture7.png
 - Picture6.png
 - Picture8.png
-- Picture9.png
+- Picture9.jpg
 tagged: C++, Engines, Development, Platformer
 website:
 abstract: Mini game made as part of a university project
