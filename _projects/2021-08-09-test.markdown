@@ -1,32 +1,30 @@
 ---
 layout: model
-title:  "Test"
-date:   2018-01-05 11:45:23
+title:  "Ka98K"
+date:   2020-01-05 11:45:23
 author: Cameron Bell
 categories:
 - model
-img: title-card-gld.png
+img: title-card-k98.png
 thumb: thumb_unity.jpg
 carousel:
-- Picture7.png
-- Picture6.png
-- Picture8.png
-- Picture9.jpg
-tagged: C++, Engines, Development, Platformer
+- kark00.png
+- kark01.png
+- kark02.png
+- kark03.png
+- kark04.png
+- kark05.png
+- kark06.png
+tagged: Maya, 3D Modelling, Baking, Gun
 website:
-abstract: Mini game made as part of a university project
+abstract: Modelling a German 'Karabiner 98 kurz' Maya.
 published: true
 modelling: true
 ---
-#### Tales of Iggy & Scorched
-Mini game made as part of a university project 
+#### Ka98K
+This model was created as a side project to be used within a VR interaction were the user would be able to strip the weapon down. 
 #### Features
-This project outcome was to produce a time-restricted, platformer mini-game using the unreal engine with the time limit being 5 minutes. The level includes
-1. Toon Outline Shader
-2. Collectables
-3. Power-Ups
-4. Jump Pads
-5. Platforms
-6. Traps
-7. Puzzles 
-and more.
+1. most of the components of the Ka98K has been modelled with exceptions on springs and screws which are not visible
+2. The weapon is sighted in so the front and rear sight are aligned.
+3. UV sets
+4. Moveable component like bolt and front sight. 
