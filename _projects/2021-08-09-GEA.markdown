@@ -1,0 +1,30 @@
+---
+layout: project
+title:  "Dynamic rain system"
+date:   2017-11-05 11:45:23
+author: Cameron Bell
+categories:
+- project
+img: flight_sim.png
+thumb: thumb_unity.jpg
+carousel:
+- cover_dis_photo.png
+- bi_plane_2.png
+- big_plane_2.png
+- piper_plane.png
+tagged: C++, Engines, Development, Rain
+abstract: Unreal dynamic rain system
+published: true
+---
+#### Unreal Rain System
+This project was to create two dynamic weather systems in two game engines. The two chosen were Unreal and Unity.
+#### Features
+The two systems included:
+1. Controllable puddle and ripple system
+2. rain intensity, speed, size, and area of effect.
+3. changeable textures
+4. GPU based particle system 
+5. Platformer
+6. Objectives
+7. Interactable mine-cart system 
+and more.
