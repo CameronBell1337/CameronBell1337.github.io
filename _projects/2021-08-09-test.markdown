@@ -4,7 +4,7 @@ title:  "Test"
 date:   2018-01-05 11:45:23
 author: Cameron Bell
 categories:
-- model
+- models
 img: title-card-gld.png
 thumb: thumb_unity.jpg
 carousel:
