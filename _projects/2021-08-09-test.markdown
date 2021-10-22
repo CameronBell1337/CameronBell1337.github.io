@@ -1,6 +1,6 @@
 ---
 layout: model
-title:  "Ka98K"
+title:  "Kar98K"
 date:   2020-01-05 11:45:23
 author: Cameron Bell
 categories:
