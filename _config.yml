@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UWEGAMES - Cameron Bell
-description: "Games development from an n00b's persepective."
+title: My Portfolio
+description: "Cameron Bells Projects"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/"
 url: https://CameronBell1337.github.io
@@ -52,10 +52,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - University of the West of England,
-    - Frenchay Campus, Bristol, BS16 1QY,
     - United Kingdom.
-email: cameron2.bell@live.uwe.ac.uk
+email: cameron.bell33@live.co.uk
 
 
 
@@ -64,14 +62,14 @@ email: cameron2.bell@live.uwe.ac.uk
 # Members information. Shown on About page.
 members:
   - name: Cameron
-    position: Games Technology Student
+    position: MSc Commercial Games Development Student
     text: Gamer, Programmer, Creator.
     img: me.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:cameron2.bell@live.uwe.ac.uk
+        url: mailto:cameron.bell33@live.co.uk
       - title: twitter
-        url: https://twitter.com/Garf1eldCS
+        url: https://twitter.com/G4rf13ld_
       - title: linkedin
         url: https://www.linkedin.com/in/cameron-bell-b2169a176/
  
