@@ -2,17 +2,17 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for model in site.model reversed limit:include.limit %}
-            {% if model.published == true %}
+            {% for models in site.model reversed limit:include.limit %}
+            {% if models.published == true %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ model.img }}" alt="">
+                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ models.img }}" alt="">
                         
-                        {% if model.redirect %}
+                        {% if models.redirect %}
                          <div class="he-view">
-                                <a href="{{ model.redirect }}" target="_blank">
+                                <a href="{{ models.redirect }}" target="_blank">
                                 <div class="bg a0" data-animate="fadeIn">
-                                 <h3 class="a1" data-animate="fadeInDown">{{ model.title }} <br/>{{ model.abstract }}</h3>
+                                 <h3 class="a1" data-animate="fadeInDown">{{ models.title }} <br/>{{ models.abstract }}</h3>
                                  <i class="fafa-external-link dmbutton a2" data-animate="fadeInUp"></i>
                             </div><!-- he bg -->
                             </a>
@@ -20,10 +20,10 @@
                 
                         {% else %}
                         <div class="he-view">
-                            <a href="{{ model.url | prepend: site.baseurl }}">
+                            <a href="{{ models.url | prepend: site.baseurl }}">
                             <div class="bg a0" data-animate="fadeIn">                      
-                                <h3 class="a1" data-animate="fadeInDown">{{ model.title }} <br/>{{ model.abstract }}</h3>
-                                <!-- <a href="{{  model.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
+                                <h3 class="a1" data-animate="fadeInDown">{{ models.title }} <br/>{{ models.abstract }}</h3>
+                                <!-- <a href="{{  models.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                             </a>
                         </div><!-- he view -->
