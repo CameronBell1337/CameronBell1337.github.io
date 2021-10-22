@@ -16,7 +16,7 @@ tagged: C++, Engines, Development, Platformer
 website:
 abstract: Mini game made as part of a university project
 published: true
-modelling: false
+modelling: true
 ---
 #### Tales of Iggy & Scorched
 Mini game made as part of a university project 
