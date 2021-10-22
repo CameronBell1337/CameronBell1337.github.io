@@ -14,7 +14,7 @@ carousel:
 - piper_plane.png
 tagged: C++, Engines, Development, Rain
 website:
-abstract: Unreal dynamic rain system
+abstract: Unreal dynamic rain system.
 published: true
 ---
 #### Unreal Rain System
@@ -29,3 +29,5 @@ The two systems included:
 6. Objectives
 7. Interactable mine-cart system 
 and more.
+
+
