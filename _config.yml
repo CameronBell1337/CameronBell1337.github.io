@@ -5,7 +5,7 @@ title: My Portfolio
 description: "Cameron Bells Projects"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/"
-url: https://www.cameronbell.co.uk
+url: https://CameronBell1337.github.io
 
 # Build settings
 highlighter: rouge
