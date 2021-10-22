@@ -12,7 +12,7 @@ carousel:
 - bi_plane_2.png
 - big_plane_2.png
 - piper_plane.png
-tagged: C#, Engines, Development
+tagged: C#, Engines, Development, aerodynamics
 website: https://github.com/CameronBell1337/CTP_Project
 abstract: Final version of my flight simulation tool built in Unity
 published: true
