@@ -20,6 +20,8 @@ website: https://github.com/CameronBell1337/Dementia_Care
 abstract: An app created during a university project about Dementia. 
 published: true
 ---
+<iframe src="https://giphy.com/embed/dc9UC75YFYgRhi4Cgj" width="216" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dc9UC75YFYgRhi4Cgj">via GIPHY</a></p>
+
 #### Dementia Care
 This app was made for a university project. The project involved the full development cycle including: documentation, low & high quality flow composits, wire framing, colour & theme palettes.
 
