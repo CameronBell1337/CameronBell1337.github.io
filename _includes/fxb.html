@@ -2,7 +2,7 @@
     <div class="model-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems model">
-            {% for models in site.models reversed limit:include.limit %}
+            {% for models in site.model reversed limit:include.limit %}
             {% if models.published == true %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
