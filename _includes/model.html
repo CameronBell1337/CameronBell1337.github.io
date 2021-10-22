@@ -2,7 +2,7 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in site.models reversed limit:include.limit %}
+            {% for project in site.projects reversed limit:include.limit %}
             {% if project.published == true %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
