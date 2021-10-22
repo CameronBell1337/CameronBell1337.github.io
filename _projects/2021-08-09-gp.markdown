@@ -5,13 +5,17 @@ date:   2020-04-04 11:45:23
 author: Cameron Bell
 categories:
 - project
-img: flight_sim.png
+img: titlecardgp.png
 thumb: thumb_unity.jpg
 carousel:
-- cover_dis_photo.png
-- bi_plane_2.png
-- big_plane_2.png
-- piper_plane.png
+- gpp00.png
+- gpp01.png
+- gpp02.png
+- gpp03.png
+- gpp04.png
+- gpp05.png
+- gpp06.png
+
 tagged: C#, Engines, Development, Group project
 website:
 abstract: University Group Project
