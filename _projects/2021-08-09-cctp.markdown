@@ -14,7 +14,7 @@ carousel:
 - piper_plane.png
 tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
-abstract: Final version of my flight simulation tool build in Unity
+abstract: Final version of my flight simulation tool built in Unity
 published: true
 ---
 #### Flight Simulation

@@ -1,0 +1,41 @@
+---
+layout: project
+title:  "Dementia Care"
+date:   2018-01-05 11:45:23
+author: Cameron Bell
+categories:
+- project
+img: title-card-app.png
+thumb: thumb_unity.jpg
+carousel:
+- app00.jpg
+- app01.jpg
+- app02.jpg
+- app03.jpg
+- app04.jpg
+- app05.jpg
+- app06.jpg
+tagged: Kotlin, Android, Development, Mobile, App
+website: https://github.com/CameronBell1337/Dementia_Care
+abstract: An app created during a university project about Dementia. 
+published: true
+---
+#### Dementia Care
+This app was made for a university project. The project involved the full development cycle including: documentation, low & high quality flow composits, wire framing, colour & theme palettes.
+
+During the development process there was multiple user testing stages. 
+#### Dementia Care
+Here are some wireframes, low & high flow composits:
+
+#### Features
+The app contains:
+1. Notification & reminders
+2. Scheduler
+3. Dementia Stories
+4. Resources
+5. Useful Contacts
+6. User friendly modern design
+7. Configurable settings
+8. light and dark theme
+9. user statistics. 
+and more.
