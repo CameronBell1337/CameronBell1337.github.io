@@ -3,7 +3,7 @@
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% for project in site.projects reversed limit:include.limit %}
-			{% if project.categories != model}
+			{% if project.categories != model %}
             {% if project.published == true %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
