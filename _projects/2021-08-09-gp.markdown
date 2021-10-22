@@ -14,7 +14,7 @@ carousel:
 - gpp03.png
 - gpp04.png
 - gpp05.png
-- gpp06.png
+- gpp06.gif
 
 tagged: C#, Engines, Development, Group project
 website:
