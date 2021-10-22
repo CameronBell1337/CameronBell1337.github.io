@@ -22,7 +22,8 @@ published: true
 modelling: true
 ---
 #### Ka98K
-This model was created as a side project to be used within a VR interaction were the user would be able to strip the weapon down. 
+This model was created as a personal project to be used within a VR interaction were the user would be able to strip the weapon down and reassemble it.
+This model has been UV'ed and there is two different texture sets. 
 #### Features
 1. most of the components of the Ka98K has been modelled with exceptions on springs and screws which are not visible
 2. The weapon is sighted in so the front and rear sight are aligned.

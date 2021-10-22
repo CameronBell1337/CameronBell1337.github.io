@@ -16,6 +16,7 @@ tagged: C#, Engines, Development
 website: https://github.com/CameronBell1337/CTP_Project
 abstract: Final version of my flight simulation tool built in Unity
 published: true
+modelling: false
 ---
 #### Flight Simulation
 Made for my final dissertation project for my BSc(hons) Games Technology  
