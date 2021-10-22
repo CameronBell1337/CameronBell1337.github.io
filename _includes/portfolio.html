@@ -3,8 +3,8 @@
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% for project in site.projects reversed limit:include.limit %}
-			{% if project.modelling != true %}
             {% if project.published == true %}
+			{% if project.modelling != true %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
