@@ -24,7 +24,6 @@ published: true
 Time moves when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are dis░osab█e, time mo▒es when you do, elimi▒ate the e░emies, mind is softwa▒e, bo█▒s are ▒i█░o▒ab█;;░█,,,,
 
 SUPERFLAT is a de-make of SUPERHOT, made for a UWE Commercial Games Development course one-week game jam. Created by myself and 5 other fellow university Games Technology students, we strove to transform SUPERHOT into an Atari 2600 classic.
-Fight at the Museum is a quick & quirky party game where you have to multitask between throwing stage props at each other, as well as pumping the pump-cart to keep the occasional audience entertained. Balance fake pleasantries & rivalry driven toy throwing tantrums in this unconventional co-op feud! If you loose all your star ratings, you lose, if your HP gets eliminated by your opponent, you lose!
 
 This project was created within a group of 5 people and the requirements were to produce a modern game for the Atari 2600.
 I was tasked with producing the slow motion effect which changes based on player movement and some UI elements
