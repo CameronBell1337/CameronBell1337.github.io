@@ -8,11 +8,11 @@ categories:
 img: title-card-dx11.png
 thumb: thumb_unity.jpg
 carousel:
-- bdt00.png
-- bdt01.png
-- bdt02.png
-- bdt03.png
-- bdt04.png
+- bdt00.PNG
+- bdt01.PNG
+- bdt02.PNG
+- bdt03.PNG
+- bdt04.PNG
 tagged: C++, Engines, Development, DX11, DirectX11, BTD
 website: https://github.com/CameronBell1337/ATProject01
 abstract: Created using personal game engine made with DirectX11
@@ -33,7 +33,7 @@ This projects is a working game engine with basic functionality that include:
 6. Placeable towers
 7. enemies with varying speed, colours and health.
 and more.
-#### to come
+#### To come
 There is more work planned:
 1. Lighting
 2. Editor/Game mode
