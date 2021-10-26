@@ -26,9 +26,6 @@ The two systems included:
 2. rain intensity, speed, size, and area of effect.
 3. changeable textures
 4. GPU based particle system 
-5. Platformer
-6. Objectives
-7. Interactable mine-cart system 
 and more.
 
 
