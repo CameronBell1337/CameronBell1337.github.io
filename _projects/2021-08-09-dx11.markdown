@@ -1,0 +1,42 @@
+---
+layout: project
+title:  "BTD in Dx11"
+date:   2021-02-10 11:45:23
+author: Cameron Bell
+categories:
+- project
+img: title-card-dx11.png
+thumb: thumb_unity.jpg
+carousel:
+- bdt00.png
+- bdt01.png
+- bdt02.png
+- bdt03.png
+- bdt04.png
+tagged: C++, Engines, Development, DX11, DirectX11, BTD
+website: https://github.com/CameronBell1337/ATProject01
+abstract: Created using personal game engine made with DirectX11
+published: true
+modelling: false
+---
+#### Ballon Tower Defense
+This was made as part of a university module. The goal was to create a Ballon Tower Defense game to showcase my game engine framework built from ground up using DirectX11.
+
+The game currently looks 2D due to the lack of lighting however can support both 2D & 3D.
+#### Features
+This projects is a working game engine with basic functionality that include: 
+1. 3D world space
+2. Depth Buffer
+3. Working keyboard & mouse input classes
+4. Graphics pipeline
+5. Pre-set primitive objects that can be called and rendered.
+and more.
+6. Placeable towers
+7. enemies with varying speed, colours and health.
+#### TO COME
+There is more work planned:
+1. Lighting
+2. Editor/Game mode
+3. UI
+4. FBX & OBj file support
+5. dynamically loadable modules.

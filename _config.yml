@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: My Portfolio
+title: Cameron's Portfolio
 description: "Cameron Bells Projects"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/"
