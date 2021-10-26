@@ -30,10 +30,10 @@ This projects is a working game engine with basic functionality that include:
 3. Working keyboard & mouse input classes
 4. Graphics pipeline
 5. Pre-set primitive objects that can be called and rendered.
-and more.
 6. Placeable towers
 7. enemies with varying speed, colours and health.
-#### TO COME
+and more.
+#### to come
 There is more work planned:
 1. Lighting
 2. Editor/Game mode
