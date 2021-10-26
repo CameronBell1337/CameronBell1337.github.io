@@ -35,8 +35,8 @@ This projects is a working game engine with basic functionality that include:
 5. Pre-set primitive objects that can be called and rendered
 6. Placeable towers
 7. enemies with varying speed, colours and health
-
 and more.
+
 #### To come
 There is more work planned:
 1. Lighting
