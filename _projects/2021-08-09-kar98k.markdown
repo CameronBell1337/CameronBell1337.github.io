@@ -26,7 +26,7 @@ This model was created as a personal project to be used within a VR interaction 
 This model has been UV'ed and there is two different texture sets which were created using substance painter. 
 
 #### Features
-1. most of the components of the Ka98K has been modelled with exceptions on springs and screws which are not visible
+1. most of the components of the Kar98K has been modelled with exceptions on springs and screws which are not visible
 2. The weapon is sighted in so the front and rear sight are aligned.
 3. UV sets
 4. Moveable component like bolt and front sight. 
