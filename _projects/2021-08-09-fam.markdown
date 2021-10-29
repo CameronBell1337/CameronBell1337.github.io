@@ -2,7 +2,7 @@
 layout: project
 title:  "Fight at the Museum"
 date:   2021-04-02 11:45:23
-author: Cameron Bell
+author: Cameron Bell & 5 Others
 categories:
 - project
 img: title-card-fam.png
@@ -11,7 +11,8 @@ carousel:
 - fam00.png
 
 tagged: C#, Engine, Development, Group Work, Game
-website: https://www.youtube.com/watch?v=DbOOJ0ngfu8
+website: https://jacobdwoodman.itch.io/fight-at-the-museum
+youtube: https://www.youtube.com/embed/DbOOJ0ngfu8
 abstract: Two Player Local Co-Op Game. 
 published: true
 ---

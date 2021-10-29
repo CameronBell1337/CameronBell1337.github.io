@@ -2,7 +2,7 @@
 layout: project
 title:  "To The Core"
 date:   2020-04-04 11:45:23
-author: Cameron Bell
+author: Cameron Bell & 3 Others
 categories:
 - project
 img: title-card-gpp.png
