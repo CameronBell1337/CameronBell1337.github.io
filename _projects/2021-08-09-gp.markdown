@@ -14,11 +14,11 @@ carousel:
 - gpp03.png
 - gpp04.png
 - gpp05.png
-
 tagged: C#, Engines, Development, Group project
 website: https://github.com/CameronBell1337/GT6_Game
 abstract: University Group Project
 published: true
+modelling: false
 ---
 <iframe src="https://giphy.com/embed/NGv5qVwexi5j9jlbYG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NGv5qVwexi5j9jlbYG">via GIPHY</a></p>
 #### To The Core
