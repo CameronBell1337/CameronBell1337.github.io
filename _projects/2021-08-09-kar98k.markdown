@@ -1,6 +1,6 @@
 ---
 layout: model
-title:  "Kar98K"
+title:  "KAR98K"
 date:   2020-01-05 11:45:23
 author: Cameron Bell
 categories:
@@ -17,7 +17,7 @@ carousel:
 - kark06.png
 tagged: Maya, 3D Modelling, Baking, Gun, Substance Painter
 website:
-abstract: Modelling a German WW2 weapon.
+abstract: modelling a German WW2 weapon.
 published: true
 modelling: true
 ---

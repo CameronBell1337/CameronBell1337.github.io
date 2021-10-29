@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "CCTP Project"
+title:  "CCTP PROJECT"
 date:   2021-08-09 11:45:23
 author: Cameron Bell
 categories:

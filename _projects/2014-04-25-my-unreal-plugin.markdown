@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Breakout/Arkanoid"
+title:  "BREAKOUT/ARKANOID"
 date:   2018-01-30 16:54:46
 author: Cameron Bell
 categories:

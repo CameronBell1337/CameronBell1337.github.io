@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Fight at the Museum"
+title:  "FIGHT AT THE MUSEUM"
 date:   2021-04-02 11:45:23
 author: Cameron Bell & 5 Others
 categories:

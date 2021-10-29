@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "BTD in Dx11"
+title:  "BTD IN DX11"
 date:   2021-02-10 11:45:23
 author: Cameron Bell
 categories:

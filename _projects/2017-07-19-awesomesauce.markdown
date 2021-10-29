@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Space Invaders"
+title:  "SPACE INVADERS"
 date:   2018-03-19 18:54:46
 author: Cameron Bell
 categories:
@@ -12,7 +12,7 @@ carousel:
 - quad_2.png
 tagged: C++, Engines, Development
 website: 
-abstract: My version of the classic Space Invaders
+abstract: my version of the classic Space Invaders
 published: true
 ---
 #### Space Invaders

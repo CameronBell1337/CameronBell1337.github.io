@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Dynamic rain system"
+title:  "DYNAMIC RAIN SYSTEM"
 date:   2017-11-05 11:45:23
 author: Cameron Bell
 categories:
@@ -15,7 +15,7 @@ carousel:
 - UnrealRain04.png
 tagged: C++, Engines, Development, Rain
 website:
-abstract: Dynamic rain system.
+abstract: weather system created in unreal.
 published: true
 ---
 #### Rain System
