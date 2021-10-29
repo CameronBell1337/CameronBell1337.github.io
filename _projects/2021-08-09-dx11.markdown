@@ -19,8 +19,8 @@ abstract: Created using personal game engine made with DirectX11
 published: true
 modelling: false
 ---
-<iframe src="https://giphy.com/embed/I0k5QGQou5vxlaCH19" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/embed/I0k5QGQou5vxlaCH19">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/IsIakh4G6T9AQeL0cn" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/embed/IsIakh4G6T9AQeL0cn">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/I0k5QGQou5vxlaCH19" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/I0k5QGQou5vxlaCH19"></a></p>
+<iframe src="https://giphy.com/embed/IsIakh4G6T9AQeL0cn" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IsIakh4G6T9AQeL0cn"></a></p>
 #### Ballon Tower Defense
 This was made as part of a university module. The goal was to create a Ballon Tower Defense game to showcase my game engine framework built from ground up using DirectX11.
 

@@ -16,11 +16,12 @@ carousel:
 - gpp05.png
 tagged: C#, Engines, Development, Group project
 website: https://github.com/CameronBell1337/GT6_Game
+youtube: https://giphy.com/embed/NGv5qVwexi5j9jlbYG
 abstract: University Group Project
 published: true
 modelling: false
 ---
-<iframe src="https://giphy.com/embed/NGv5qVwexi5j9jlbYG" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NGv5qVwexi5j9jlbYG">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/NGv5qVwexi5j9jlbYG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NGv5qVwexi5j9jlbYG"></a></p>
 #### To The Core
 This project was a collaborative project between me and 3 other team memebers and we were tasked with creating a 3 stage platformer game with each level having a different theme and setting to signfy getting towards a goal.
 I was tasked with creating the final level of the game which included a lava shader and particle system, cutscenes & animation, camera control system and the level design of the first area.
