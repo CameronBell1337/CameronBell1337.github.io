@@ -9,17 +9,18 @@ layout: default
 
         {% include carousel.html %}
 		
-		<div class="row"></div>
-		<div class="spacing"></div>
-		{% if page.youtube != null %}
-				<div class="iframe-container">
-				<iframe width="1904" height="768" src="{{page.youtube}}" title" ="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-				allowfullscreen></iframe>
-				</div>
-				
-		{% endif %}
-
-			
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1 centered">
+				{% if page.youtube != null %}
+						<div class="iframe-container">
+						<iframe width="1904" height="768" src="{{page.youtube}}" title" ="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+						allowfullscreen></iframe>
+						</div>
+						
+				{% endif %}
+			</div>
+		</div>
+	
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
             {{ content }}
