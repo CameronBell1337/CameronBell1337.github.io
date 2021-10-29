@@ -15,13 +15,13 @@ carousel:
 - UnrealRain04.png
 tagged: C++, Engines, Development, Rain
 website:
-abstract: Two dynamic rain systems.
+abstract: Dynamic rain system.
 published: true
 ---
-#### Rain Systems
-This project was to create two dynamic weather systems in two game engines. The two chosen were Unreal and Unity.
+#### Rain System
+This project was to create a dynamic weather systems in a game engine. The engine chosen for this was the Unreal Engine.
 #### Features
-The two systems included:
+The system included:
 1. Controllable puddle and ripple system
 2. rain intensity, speed, size, and area of effect.
 3. changeable textures
