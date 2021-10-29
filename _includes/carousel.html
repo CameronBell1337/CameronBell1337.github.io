@@ -15,21 +15,14 @@
         <div class="carousel-inner">
             {% for img in page.carousel.first %}
                 <div class="item active">
-                    <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alt="" style="width:auto;">
+                    <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alt="">
                 </div>
             {% endfor %}
             {% for img in page.carousel offset:1 %}
                 <div class="item">
-                    <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alt="" style="width:auto;">
+                    <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alt="">
                 </div>
             {% endfor %}
         </div>
     </div> <!--/Carousel -->
 </div>
-
-
-<picture>
-  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
-  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
-  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
-</picture>
