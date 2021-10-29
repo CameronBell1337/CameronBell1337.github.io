@@ -410,18 +410,19 @@ a:focus {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
   height: 600px;
   width: auto;
   max-height: 600px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .carousel-indicators li {
   display: inline-block;
   width: 10px;
   height: 10px;
-  margin: 1px;
+  margin: auto;
   text-indent: -999px;
   cursor: pointer;
   background-color: #ccc \9;
