@@ -410,7 +410,7 @@ a:focus {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  height: auto;
+  height: 600px;
   width: auto;
   max-height: 600px;
   max-width: 50%;
