@@ -38,14 +38,10 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: github
     url: https://github.com/CameronBell1337
   - title: twitter
     url: https://twitter.com/G4rf13ld_
-  - title: instagram
-    url:
   - title: linkedin
     url: https://www.linkedin.com/in/cameron-bell-b2169a176/
 
