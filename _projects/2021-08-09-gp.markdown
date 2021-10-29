@@ -16,7 +16,7 @@ carousel:
 - gpp05.png
 tagged: C#, Engines, Development, Group project
 website: https://github.com/CameronBell1337/GT6_Game
-youtube: https://giphy.com/embed/NGv5qVwexi5j9jlbYG
+youtube: 
 abstract: University Group Project
 published: true
 modelling: false
