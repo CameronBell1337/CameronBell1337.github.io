@@ -411,9 +411,8 @@ a:focus {
 .carousel-inner > .item > a > img {
   display: block;
   max-height: 600px;
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
-  width: auto;
   margin-left: auto;
   margin-right: auto;
   
