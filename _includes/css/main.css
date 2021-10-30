@@ -441,7 +441,7 @@ a:focus {
 
 .text-block {
   position: absolute;
-  text-align: block;
+  text-align: center;
 }
 
 .carousel-indicators li {
