@@ -220,7 +220,7 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
 	text-align: center;
-	position: relative;
+	position: absolute;
 }
 
 #headerwrap h3, h5 {
