@@ -226,7 +226,7 @@ a:focus {
 #headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
-	position: absolute;
+	position: block;
 	text-align: center;
 	top: 50%;
 }
@@ -234,7 +234,7 @@ a:focus {
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
-	position: absolute;
+	position: block;
 	text-align: center;
 	top: 50%;
 }
