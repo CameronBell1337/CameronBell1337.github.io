@@ -440,7 +440,7 @@ a:focus {
 }
 
 .text-block {
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
