@@ -33,9 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
-	position:block | absolute
-	text-align: center;
-	top: 50%;
+	
 }
 
 p { 
@@ -222,17 +220,23 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
 	text-align: center;
-	position: relative;
+	position: absolute;
 }
 
 #headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
+	position:block | absolute
+	text-align: center;
+	top: 50%;
 }
 
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
+	position:block | absolute
+	text-align: center;
+	top: 50%;
 }
 
 #headerwrap .img-responsive {
@@ -435,7 +439,7 @@ a:focus {
 }
 
 .hcontainer {
-	position: absolute;
+	position: relative;
 }
 
 .carousel-indicators li {
