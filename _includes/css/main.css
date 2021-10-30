@@ -219,6 +219,7 @@ a:focus {
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
+	text-align: center;
 	position: absolute;
 }
 
@@ -429,6 +430,10 @@ a:focus {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.hcontainer {
+	position: relative;
 }
 
 .carousel-indicators li {
