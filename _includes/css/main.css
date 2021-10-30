@@ -435,7 +435,7 @@ a:focus {
 }
 
 .hcontainer {
-	position: relative;
+	position: absolute;
 }
 
 .carousel-indicators li {
