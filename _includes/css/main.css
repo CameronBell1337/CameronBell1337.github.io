@@ -235,6 +235,7 @@ a:focus {
 	margin-bottom: 25px;
 	font-weight: 400;
 	position: absolute;
+	transform: translate(-50%, -50%);
 	top: 50%
 }
 
