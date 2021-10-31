@@ -229,6 +229,7 @@ a:focus {
 #headerwrap h3 {
 	color: white;
 	font-weight: 400;
+	height: auto;
 	position: absolute;
 	left: 50%;
 	top: 40%;
@@ -238,6 +239,7 @@ a:focus {
 #headerwrap h5 {
 	color: white;
 	font-weight: 400;
+	height: auto;
 	position: absolute;
 	left: 50%;
 	top: 60%;
@@ -247,6 +249,7 @@ a:focus {
 #headerwrap h6 {
 	color: white;
 	font-weight: 400;
+	height: auto;
 	position: absolute;
 	left: 50%;
 	top: 65%;
