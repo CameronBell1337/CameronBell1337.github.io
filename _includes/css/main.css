@@ -230,8 +230,8 @@ a:focus {
 	font-weight: 400;
 	position: absolute;
 	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -70%);
+	top: 70%;
+	transform: translate(-50%, -50%);
 }
 
 #headerwrap h5 {
