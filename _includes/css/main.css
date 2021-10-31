@@ -455,7 +455,7 @@ a:focus {
 .hcontainer {
 	position: relative;
 	text-align: center;
-	height: 100%;
+	height: 500px;
 }
 
 .text-block {
