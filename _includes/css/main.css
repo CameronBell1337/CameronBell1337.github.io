@@ -229,7 +229,6 @@ a:focus {
 	color: white;
 	margin-bottom: 25px;
 	font-weight: 400;
-	position: absolute;
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
@@ -254,7 +253,7 @@ a:focus {
 }
 
 #headerwrap .img-responsive {
-	height: 50%;
+	height: 25%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -460,7 +459,7 @@ a:focus {
 .hcontainer {
 	position: relative;
 	text-align: center;
-	height: 50%;
+	height: 25%;
 	width: 100%;
 }
 
