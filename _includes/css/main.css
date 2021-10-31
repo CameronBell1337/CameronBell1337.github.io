@@ -254,6 +254,11 @@ a:focus {
 }
 
 #headerwrap .img-responsive {
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
 	margin: 0 auto;
 }
 
