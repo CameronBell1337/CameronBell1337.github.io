@@ -225,11 +225,28 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+#headerwrap h3 {
 	color: white;
 	font-weight: 400;
 	position: absolute;
-	display: relative;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -70%);
+}
+
+#headerwrap h5 {
+	color: white;
+	font-weight: 400;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#headerwrap h6 {
+	color: white;
+	font-weight: 400;
+	position: absolute;
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
@@ -247,7 +264,6 @@ a:focus {
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
-	display: relative;
 	position: absolute;
 	top: 50%;
 	left: 50%;
