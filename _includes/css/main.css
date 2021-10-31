@@ -233,7 +233,7 @@ a:focus {
 	position: absolute;
 	left: 50%;
 	top: 40%;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -40%);
 }
 
 #headerwrap h5 {
@@ -243,7 +243,7 @@ a:focus {
 	position: absolute;
 	left: 50%;
 	top: 60%;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -60%);
 }
 
 #headerwrap h6 {
@@ -253,7 +253,7 @@ a:focus {
 	position: absolute;
 	left: 50%;
 	top: 65%;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -65%);
 }
 
 #headerwrap h7, h8 {
