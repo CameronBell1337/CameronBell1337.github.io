@@ -226,9 +226,13 @@ a:focus {
 #headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
+}
+
+#headerwrap h6, h7 {
+	color: white;
+	font-weight: 400;
 	position: absolute;
 	text-align: center;
-	
 }
 
 #headerwrap h1 {
@@ -237,6 +241,10 @@ a:focus {
 	position: absolute;
 	text-align: center;
 	top: 50%;
+}
+
+#headerwrap .img-responsive {
+	margin: 0 auto;
 }
 
 /* Services Wrap */
