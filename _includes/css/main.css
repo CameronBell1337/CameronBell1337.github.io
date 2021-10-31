@@ -220,9 +220,7 @@ a:focus {
 .headerwrap {
 	background-color: {{ site.colors.primary }};
 	position: relative;
-	padding-bottom: 50px;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-bottom: 25px;
 }
 
 
