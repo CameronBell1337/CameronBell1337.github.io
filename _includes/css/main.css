@@ -228,6 +228,9 @@ a:focus {
 #headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
 }
 
 #headerwrap h7, h8 {
@@ -236,7 +239,7 @@ a:focus {
 	font-weight: 400;
 	position: absolute;
 	transform: translate(-50%, -50%);
-	top: 50%
+	top: 50%;
 }
 
 #headerwrap h1 {
