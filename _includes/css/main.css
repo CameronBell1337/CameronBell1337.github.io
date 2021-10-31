@@ -221,7 +221,7 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	padding-top: 100px;
 	padding-bottom: 50px;
-	height: 780px;
+	height: auto;
 	position: relative;
 }
 
