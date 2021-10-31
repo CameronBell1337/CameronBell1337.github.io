@@ -254,7 +254,7 @@ a:focus {
 	transform: translate(-50%, -50%);
 }
 
-#headerwrap .img-responsive {
+.img-responsive {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Code.png");
 	height: 25%;
 	background-position: center;
