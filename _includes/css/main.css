@@ -231,9 +231,6 @@ a:focus {
 	font-weight: 400;
 	height: auto;
 	position: absolute;
-	left: 50%;
-	top: 40%;
-	transform: translate(-50%, -40%);
 }
 
 #headerwrap h5 {
@@ -241,9 +238,6 @@ a:focus {
 	font-weight: 400;
 	height: auto;
 	position: absolute;
-	left: 50%;
-	top: 60%;
-	transform: translate(-50%, -60%);
 }
 
 #headerwrap h6 {
@@ -251,27 +245,19 @@ a:focus {
 	font-weight: 400;
 	height: auto;
 	position: absolute;
-	left: 50%;
-	top: 65%;
-	transform: translate(-50%, -65%);
 }
 
 #headerwrap h7, h8 {
 	color: white;
 	margin-bottom: 25px;
 	font-weight: 400;
-	position: absolute;
-	transform: translate(-50%, -50%);
-	top: 50%;
 }
 
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
 	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+	
 }
 
 .img-responsive {
