@@ -218,9 +218,7 @@ a:focus {
 ################################################################# */
 
 .headerwrap {
-	background-color: {{ site.colors.primary }};
 	position: relative;
-	padding-bottom: 25px;
 }
 
 
