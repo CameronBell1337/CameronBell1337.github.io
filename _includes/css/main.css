@@ -262,7 +262,7 @@ a:focus {
 
 .img-responsive {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-	height: auto;
+	height: 50%;
 	width: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
