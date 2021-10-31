@@ -221,6 +221,7 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	padding-top: 100px;
 	padding-bottom: 50px;
+	position: relative;
 	text-align: center;
 }
 
@@ -244,6 +245,7 @@ a:focus {
 	position: absolute;
 	text-align: center;
 	top: 50%;
+	left: 50%;
 }
 
 #headerwrap .img-responsive {
