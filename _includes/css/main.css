@@ -234,7 +234,7 @@ a:focus {
 	color: white;
 	margin-bottom: 25px;
 	font-weight: 400;
-	position: absolute;
+	position: relative;
 	transform: translate(-50%, -50%);
 	top: 50%
 }
