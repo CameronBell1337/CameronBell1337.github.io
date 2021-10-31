@@ -260,7 +260,6 @@ a:focus {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-	margin: 0 auto;
 }
 
 /* Services Wrap */
@@ -456,6 +455,13 @@ a:focus {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.tcontainer {
+	position: relative;
+	text-align: center;
+	height: auto;
+	width: 100%;
 }
 
 .hcontainer {
