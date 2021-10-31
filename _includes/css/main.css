@@ -255,6 +255,7 @@ a:focus {
 }
 
 #headerwrap .img-responsive {
+	background-image: url("assets/img/Code.png");
 	height: 25%;
 	background-position: center;
 	background-repeat: no-repeat;
