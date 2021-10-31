@@ -223,6 +223,7 @@ a:focus {
 	padding-bottom: 50px;
 	position: relative;
 	text-align: center;
+	height: 500px;
 }
 
 #headerwrap h3 {
