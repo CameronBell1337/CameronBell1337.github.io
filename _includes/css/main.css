@@ -217,7 +217,7 @@ a:focus {
 	SITE WRAPS
 ################################################################# */
 
-#headerwrap {
+.headerwrap {
 	background-color: {{ site.colors.primary }};
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -229,7 +229,6 @@ a:focus {
 
 .img-responsive {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-	height: 50%;
 	width: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
