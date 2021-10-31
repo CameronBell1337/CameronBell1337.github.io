@@ -219,9 +219,9 @@ a:focus {
 
 #headerwrap {
 	background-color: {{ site.colors.primary }};
-	text-align: center;
 	padding-top: 100px;
 	padding-bottom: 50px;
+	text-align: center;
 }
 
 #headerwrap h3, h5 {
@@ -231,6 +231,7 @@ a:focus {
 
 #headerwrap h7, h8 {
 	color: white;
+	margin-bottom: 25px;
 	font-weight: 400;
 	position: absolute;
 	text-align: center;
